@@ -7,4 +7,6 @@
   , "meme_captain.coffee"
   , "github-issues.coffee"
   , "working-on.coffee"
+  , "github-issue-link.coffee"
+  , "github-commit-link.coffee"
 ]
