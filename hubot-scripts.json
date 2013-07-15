@@ -1,1 +1,9 @@
-["redis-brain.coffee", "shipit.coffee", "ruby_rules.coffee", "karma.coffee", "ambush.coffee", "meme_captain.coffee"]
+[
+  "redis-brain.coffee"
+  , "shipit.coffee"
+  , "ruby_rules.coffee"
+  , "karma.coffee"
+  , "ambush.coffee"
+  , "meme_captain.coffee"
+  , "github-issues.coffee"
+]
