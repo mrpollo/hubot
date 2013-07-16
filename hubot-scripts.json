@@ -9,4 +9,5 @@
   , "working-on.coffee"
   , "github-issue-link.coffee"
   , "github-commit-link.coffee"
+  , "decide.coffee"
 ]
