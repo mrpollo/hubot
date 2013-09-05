@@ -11,4 +11,5 @@
   , "github-commit-link.coffee"
   , "decide.coffee"
   , "insult.coffee"
+  , "commitmessage.coffee"
 ]
