@@ -17,7 +17,7 @@ module.exports = (robot) ->
     msg.http("http://tsharp.net:8976/ready")
     .get() (err, res, body) ->
       search = escape(msg.match[1])
-      msg.http('http://www.reddit.com/r/shittyfoodporn.json')
+      msg.http('http://www.reddit.com/r/foodporn.json')
         .get() (err, res, body) ->
           result = JSON.parse(body)
 
