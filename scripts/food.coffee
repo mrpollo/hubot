@@ -30,4 +30,4 @@ module.exports = (robot) ->
           urls.push(child.data.url)
 
         rnd = Math.floor(Math.random()*urls.length)
-        msg.send urls[rnd]+"?fmt=.jpg"
+        msg.send urls[rnd]+".jpg"
